@@ -111,3 +111,76 @@ body{
 ol{
     font-family: 'Acme', sans-serif;
 }
+@media screen and (max-width: 500px){
+    .content{
+        width: 90%;
+        height: 525px;
+    }
+    .content_inner1{
+        top: 5px;
+        left: 5px;
+        width: 44%;
+    }
+    .photo{
+        height: 137px;
+    }
+    .text1{
+        height: 100px;
+    }
+    .text1 b{
+        font-size: 15px;
+    }
+    .text1 p{
+        font-size: 8px;
+    }
+    .text1 a{
+        font-size: 8px;
+    }
+    .text2{
+        height: 100px;
+    }
+    .text2 b{
+        font-size: 15px;
+    }
+    .text2 li{
+        margin-top: 0;
+        font-size: 8px;
+    }
+    .text3 b{
+        font-size: 15px;
+    }
+    .text3 li{
+        margin-top: 0;
+        font-size: 8px;
+    }
+    .text2 ul{
+        position: relative;
+        right: 30px;
+    }
+    .text3 ul{
+        position: relative;
+        right: 30px;
+    }
+    .content_inner2{
+        margin-left: 10px;
+        padding-top: 10px;
+    }
+    .info b{
+        font-size: 8px;
+    }
+    .name{
+        font-size: 15px;
+    }
+    .project li{
+        margin-top: 50px;
+        font-size: 8px;
+    }
+    .Botton{
+        right: 30px;
+        margin-top: 0.4cm; 
+        margin-right: 0.5cm;   
+        padding: 5px 20px;  
+        border-radius: 5px; 
+        box-shadow: none;
+    }
+}
