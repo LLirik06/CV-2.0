@@ -2,6 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Acme&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Indie+Flower&family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Dongle:wght@700&display=swap');
 body{
     background-color: bisque;
 }
@@ -82,17 +83,17 @@ body{
     margin: 0;
 }   
 .content_inner2 b{
-    font-family: 'Indie Flower', cursive;
+    font-family: 'Dongle', sans-serif;
 }
 .name{
     font-size: 45px;
-    font-family: 'Pacifico', cursive;
+    font-family: 'Bebas Neue', cursive;
 }
 .content_inner2 li{
     margin-top: 50px;
 }
 .Botton{
-    font-family: 'Indie Flower', cursive;      
+    font-family: 'Dongle', sans-serif;
     position: absolute;
     right: 600px;   
     color: black;
@@ -183,7 +184,7 @@ ol{
         position: relative;
         right: 30px;
     }
-    .text3 ul{
+       .text3 ul{
         position: relative;
         right: 30px;
     }
