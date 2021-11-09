@@ -117,10 +117,65 @@ ol{
 }
 @media screen and (max-width: 1600px){
     .Botton{
-        right: 30px;
+        right: 420px;
     }
     .photo{
+        height: 175px;
+    }
+    .text1 p{
+        font-size: 10px;
+    }
+    .text1 a{
+        font-size: 10px;
+    }
+    .text1{
         height: 150px;
+    }
+}
+@media screen and (max-width: 1460px){
+    .text2 li{
+        font-size: 10px;
+    }
+    .text2{
+        height: 150px;
+    }
+    .text3 li{
+        font-size: 10px;
+    }
+    .content{
+        height: 850px;
+    }
+}
+@media screen and (max-width: 1280px){
+    .Botton{
+        right: 400px;
+        margin-top: 20px;
+        box-shadow: none;
+    }
+    .photo{
+        height: 140px;
+    }
+    .text2 ul{
+        position: relative;
+        right: 30px;
+    }
+    .text3 ul{
+        position: relative;
+        right: 30px;
+    }
+    .text1 p{
+        font-size: 8px;
+    }
+    .text1 a{
+        font-size: 8px;
+    } 
+    .text1{
+        height: 100px;
+    }
+}
+@media screen and (max-width: 1080px){
+    .photo{
+        height: 130px;
     }
 }
 @media screen and (max-width: 800px){
