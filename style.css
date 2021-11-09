@@ -119,6 +119,9 @@ ol{
     .Botton{
         right: 30px;
     }
+    .photo{
+        height: 150px;
+    }
 }
 @media screen and (max-width: 800px){
     .content{
