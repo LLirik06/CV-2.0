@@ -115,6 +115,11 @@ body{
 ol{
     font-family: 'Acme', sans-serif;
 }
+@media screen and (max-width: 1600px){
+    .Botton{
+        right: 30px;
+    }
+}
 @media screen and (max-width: 800px){
     .content{
         width: 90%;
