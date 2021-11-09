@@ -196,7 +196,7 @@ ol{
         padding-top: 10px;
     }
     .info b{
-        font-size: 8px;
+        font-size: 10px;
     }
     .name{
         font-size: 15px;
@@ -209,7 +209,8 @@ ol{
         right: 30px;
         margin-top: 0.4cm; 
         margin-right: 0.5cm;   
-        padding: 5px 20px;  
+        padding: 5px 20px;
+        font-size: 15px;  
         border-radius: 5px; 
         box-shadow: none;
     }
